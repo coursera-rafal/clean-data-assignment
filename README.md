@@ -1,8 +1,8 @@
-##Project purpose
+## Project purpose
 
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set as a part of a peer-reviewed assignemet. 
 
-##Project requirements:
+## Project requirements:
 - Github repo for the project 
 - file with tidy data derrived from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 - codebook
@@ -10,7 +10,7 @@ The purpose of this project is to demonstrate ability to collect, work with, and
 - R script file titled run_analysis.R transforming the original dataset into the derrived tidy dataset
 - the submited files are of my own work
 
-##run_analysis.R script objectives
+## run_analysis.R script objectives
 
 1 Merges the training and the test sets to create one data set.
 2 Extracts only the measurements on the mean and standard deviation for each measurement.
