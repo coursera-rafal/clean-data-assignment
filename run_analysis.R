@@ -23,7 +23,6 @@ dir <- "UCI HAR Dataset"
 url <- "http://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 if(!file.exists(file_name)){
-  # download.file(url,fileName, mode = "wb")
   download.file(url,file_name) 
 }
 
